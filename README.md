@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ Adhitya sai
 - 👀 I’m interested in web designing 
-- 🌱 I’m currently learning figma 
+- 🌱 I’m currently learning figma,html,css,jsp. 
 - 💞️ I’m looking to collaborate on YouTube 
 - 📫 How to reach me with emailing me
 
